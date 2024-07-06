@@ -1,3 +1,8 @@
+# Hello PyInstaller
+
+This is a simple template for a Python App packageable and buildable using PyInstaller.
+
+
 ## hello_pyinstaller-project setup!
 
 Run these commands to get started quickly: <br/>
